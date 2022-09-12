@@ -1,0 +1,60 @@
+p {
+    font-family: serif;
+    line-height: 1.75em;
+    font-size: larger;
+    text-align: center;
+}
+
+i {
+    font-family: sans;
+    color: rgb(0, 208, 255);
+}
+
+h2 {
+    font-family: sans;
+    color: #333;
+}
+h1 {
+    background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(240,45,253,1) 100%);
+    -webkit-background-clip: text;
+    /* -webkit-text-fill-color: transparent; */
+    color: black;
+    text-align: center;
+  }
+  body {
+    background-image: ('image/pp.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  header {
+    background: rgba(255,255,225, 0.5);
+  }
+
+  article {
+    background-color: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(10px);
+    padding: 1rem;
+  }
+div{
+    text-align: center;
+    color: snow;
+}
+
+h4 {
+    text-align: center;
+    color: snow;
+}
+
+h3 {
+    text-align: center;
+    color: snow;
+}
+
+.tengah{
+    text-align: center;
+}
+
+input{
+    text-align: center;
+}
